@@ -1,5 +1,5 @@
 # Encryption-demo
-A demo of how encryption and hashing works, both synchronous and asynchronous encryption.
+A demo of how encryption and hashing works, both symmetric and asymmetric encryption.
 
 ## Contents
 ### Hashing
@@ -9,18 +9,18 @@ Contains
 
 ### Signing
 Contains
-* One example of signing a file using asynchrounous signing (PGP)
+* One example of signing a file using asymmetric signing
 
 ### File encryption
 Contains
-* One example encrypting a file using synchronous encryption
-* One example encrypting a file using asynchronous encryption (PGP)
+* One example encrypting a file using symmetric encryption
+* One example encrypting a file using asymmetric encryption
 
 ### Message encryption
 Contains
 * One example of plain text messaging using TCP
-* One example of encrypted text messaging using TCP synchronous encryption
-* One example of encrypted text messaging using TCP asynchronous encryption (PGP)
+* One example of encrypted text messaging using TCP symmetric encryption
+* One example of encrypted text messaging using TCP asymmetric encryption (PGP)
 
 ### Simple SSL and Public Key Infrastructure
 Contains
