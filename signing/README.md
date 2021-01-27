@@ -5,3 +5,4 @@ validate that we were the ones to sign it.
 
 ## Source
 [Asymmetric encprypting of sensitive data in memory python](https://towardsdatascience.com/asymmetric-encrypting-of-sensitive-data-in-memory-python-e20fdebc521cb)
+[Asymmetric encryption and decryption in python](https://nitratine.net/blog/post/asymmetric-encryption-and-decryption-in-python/)
